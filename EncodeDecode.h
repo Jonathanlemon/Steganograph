@@ -1,8 +1,4 @@
-/*************************
- *Jonathan Lemon
- *CPSC 2310 F21 Section 001
- *jtlemon@clemson.edu
- *************************/
+
 
 #ifndef ENCODEDECODE_H
 #define ENCODEDECODE_H
