@@ -1,8 +1,4 @@
-/*************************
- *Jonathan Lemon
- *CPSC 2310 F21 Section 001
- *jtlemon@clemson.edu
- *************************/
+
 
 #ifndef PPM_H
 #define PPM_H
