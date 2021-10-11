@@ -1,8 +1,4 @@
-/*************************
- *Jonathan Lemon
- *CPSC 2310 F21 Section 001
- *jtlemon@clemson.edu
- *************************/
+
 
 #include "ppm.h"
 #include <stdio.h>
